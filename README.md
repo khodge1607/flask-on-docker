@@ -9,7 +9,7 @@ This project shows how to containerize a Flask web application with PostgreSQL, 
 ## Demo
 
 > Record a gif of yourself running the webpage, uploading an image, and viewing it, then replace this line with:
-> `![Demo](demo.gif)`
+> `![Demo](flask-on-docker.mv)`
 
 ## Build Instructions
 
