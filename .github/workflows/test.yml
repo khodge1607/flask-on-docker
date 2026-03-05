@@ -24,5 +24,5 @@ jobs:
           sleep 60
           docker ps -a
           docker compose logs
-          curl --fail http://localhost:5001/ || exit 1
+          curl --fail http://localhost:1083/ || exit 1
           docker compose down -v
