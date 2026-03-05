@@ -8,7 +8,7 @@ This project shows how to containerize a Flask web application with PostgreSQL, 
 
 ## Demo
 
-![Demo](flask-on-docker.mp4)
+![Demo](flask-on-docker.gif)
 
 ## Build Instructions
 
